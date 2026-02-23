@@ -1,11 +1,1 @@
-MIT-8.01-Classical-Mechanics/
-├── Problem-Sets/
-│   ├── PS01/
-│   │   ├── solutions.pdf
-│   │   └── notes.md
-│   └── PS02/
-├── Python-Simulations/
-│   ├── projectile_motion.py
-│   └── orbit_sim.ipynb
-├── README.md
-└── .gitignore
+
